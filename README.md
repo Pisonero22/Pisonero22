@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./src/HeaderS.png" width=85% height=450px>
+  <img src="./src/header.jpeg" width=85% height=450px>
 </p>
 
 </br>
