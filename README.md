@@ -6,11 +6,17 @@
 </br>
 </br>
 </br>
+
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="90px"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="90px" />
+  <a href="https://www.linkedin.com/in/alejandro-pisonero/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="90px" style="margin-right: 40px;">
+  </a>
+  &nbsp
+  <a href="mailto:pisonero2003@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="90px">
+  </a>
 </p>
+
 
 > <b>I'm a Software Developer who enjoys understanding problems, breaking them down and finding clear and effective solutions. I'm good at managing my time, staying organized and adapting quickly when things change. I work well with others, communicate clearly and contribute positively to any team I'm part of. I mainly focus on backend development with Java and Python, and I'm always looking for ways to improve, learn new things and deliver work I'm proud of.</b>
 
