@@ -91,13 +91,21 @@
         </td>
         <!-- Top Languages -->
         <td rowspan="2" align="center">
-            <a href="https://github.com/Pisonero22#gh-light-mode-only">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pisonero22&theme=default&langs_count=8#gh-light-mode-only" alt="Top Languages" />
-            </a>
-            <a href="https://github.com/Pisonero22#gh-dark-mode-only">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pisonero22&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="Top Languages" />
-            </a>
-        </td>
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Pisonero22&theme=tokyonight&langs_count=8" 
+      media="(prefers-color-scheme: dark)"
+    />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Pisonero22&theme=default&langs_count=8" 
+      media="(prefers-color-scheme: light)"
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pisonero22&theme=default&langs_count=8"
+      alt="Top Languages"
+    />
+  </picture>
+</td>
     </tr>
     <tr>
         <!-- Streak Stats -->
