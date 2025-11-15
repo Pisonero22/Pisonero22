@@ -7,11 +7,11 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alejandro-pisonero/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="90px" style="margin-right: 40px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50px" style="margin-right: 40px;">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:pisonero2003@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="90px">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="50px">
   </a>
 </p>
 
